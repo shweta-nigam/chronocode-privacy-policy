@@ -4,7 +4,7 @@
 
 ## Introduction
 
-ChronoCode ("we", "our", or "us") is a mobile application designed to help users save, organize, manage, import, export, and interact with code snippets using AI-powered assistance.
+ChronoCode is a mobile application designed to help users save, organize, manage, import, export, and interact with code snippets using AI-powered assistance.
 
 This Privacy Policy explains how ChronoCode collects, uses, stores, and protects information when you use the application.
 
